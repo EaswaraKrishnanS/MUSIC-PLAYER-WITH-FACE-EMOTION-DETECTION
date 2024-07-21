@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+Bulid/
+Data/
+model/
+music/
+photo/
+static/
+venv/
